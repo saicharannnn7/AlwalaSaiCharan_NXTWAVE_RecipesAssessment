@@ -66,7 +66,7 @@ Example with SQL scripts in sql/:
 
 psql -U recipe_user -d recipe_db -f sql/schema.sql
 
-▶ Run the FastAPI Server
+Run the FastAPI Server
 
 Run this inside the backend folder:
 
