@@ -24,7 +24,7 @@ python -m venv .venv
 4. Install Dependencies
 pip install -r requirements.txt
 
-🗄 PostgreSQL Database Setup
+PostgreSQL Database Setup
 1. Install PostgreSQL
 
 Download from https://www.postgresql.org/download/
